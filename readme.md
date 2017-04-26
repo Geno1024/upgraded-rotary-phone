@@ -3,7 +3,7 @@
 #### 听说这里得写点原因？
 > 2013 年 Geno 被某师兄拉进 Android 开发的坑，然后在他的手机上看到 [AIDE](http://www.android-ide.com/) 这个软件，在文件管理的界面可以看到 Git 这个玩意（图标还是竖着的），然后就不小心走入了 Git。
 
-![Git in AIDE](https://raw.githubusercontent.com/Geno1024/upgraded-rotary-phone/images/Git_in_AIDE.png)
+![Git in AIDE](https://raw.githubusercontent.com/Geno1024/upgraded-rotary-phone/master/images/Git_in_AIDE.png)
 
 > 2014 年 4 月 15 日入了某个 GitHub 相关的交流群，一晃三年了……从高二到大二，群里还是那些常驻的人，大概又可以感慨一下时光 blablabla。
 
