@@ -30,22 +30,20 @@
 
 啊啊啊啊啊 Markdown 居然不能让有序列表的编号从不是 1 开始……
 
+突然发现其实 GitHub 能够让它从 0 开始啊哈哈哈哈哈
+
 这个目录一定程度上借鉴了 [Pro Git 2](https://git-scm.com/book) 的[中文版](https://git-scm.com/book/zh/v2)，在此对原作者 [Scott Chacon](https://github.com/schacon) 和 [Ben Straub](https://github.com/ben) 表示尊敬。
 
 0. 前言
 1. 基础知识
-2. Git 基础
-	1. 维护本地仓库
-	2. 版本控制的威力
-3. 本地 Git 与服务器的交互
-	1. GitHub 
-	2. 其它 Git 托管平台
-	3. 自建 Git 服务器
-4. Git 工具
-5. 自定义 Git
-6. Git 底层原理
-7. 附录
+2. Git 单机版
+3. Git 人机版
+4. Git 联机版
+5. Git 开黑版
+6. Git 对黑版
+7. Git 底层原理
+8. 附录
 	1. 命令一览
-	2. 懒人专用
+	2. 必杀技
 
 夜深了，先到这里吧，晚安。
